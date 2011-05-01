@@ -1,0 +1,13 @@
+%%FIRST.NAME%% %%LAST.NAME%%
+%%ADDRESS%%
+%%CITY%%, %%STATE%% %%ZIP%%
+
+
+Dear %%FIRST.NAME%%,
+
+I'm please to inform you that you have been selected as a finalist in the Totally Fake Sweepstake!
+
+Please fill out the attached magazine order form to ensure your eligibility for the final round.
+
+Sincerely,
+John Doe

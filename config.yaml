@@ -1,0 +1,15 @@
+email config:
+ from-email: jdoe@example.com
+ from-name: John Doe
+ server: smtp.mail.example.com
+ password: a_password
+ subject: "You're a sweepstake finalist!"
+ use tls: False
+ use debug: True
+search terms:
+ FIRST.NAME: person.first_name
+ LAST.NAME: person.last_name
+ ADDRESS: person.address
+ CITY: person.city
+ STATE: person.state
+ ZIP: person.zip
